@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "sae.prop"]
 	path = sae.prop
 	url = https://github.com/mrijalussholihin/sae.prop
-	shallow = true
-	registered = true
